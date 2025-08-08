@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Deepak varma Battini!
+# 👋 Hello, I'm Deepak varma!
 
 I'm a SDET based, passionate about building reliable, scalable, and maintainable test frameworks that help teams ship high-quality software faster.
 
@@ -18,6 +18,8 @@ I'm a SDET based, passionate about building reliable, scalable, and maintainable
 
 ## 📚 Learning Goals
 - Exploring AI-assisted testing tools
+- Currently playwright MCP, Typescript
+- Also, exploring java development tools like SpringBoot
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
