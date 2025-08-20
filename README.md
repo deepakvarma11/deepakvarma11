@@ -22,10 +22,6 @@ I'm a SDET based, passionate about building reliable, scalable, and maintainable
 - Also, exploring java development tools like SpringBoot
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
-- 📧 your.email@example.com
-
----
-
-> “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepak-varma-battini-640514125/)
+- 🐙 [GitHub](https://github.com/deepakvarma11)
+- 📧 deepakvarma.battini@gmail.com
